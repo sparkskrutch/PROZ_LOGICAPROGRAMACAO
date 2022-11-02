@@ -1,0 +1,11 @@
+Exercício 1:
+
+https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREGA/exercicio1_batatas.py
+
+Exercício 2:
+
+https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREGA/exercicio2_tomates.py
+
+Exercício 3:
+
+https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREGA/exercicio3_regressivo.py
