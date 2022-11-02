@@ -9,3 +9,7 @@ https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREG
 Exercício 3:
 
 https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREGA/exercicio3_regressivo.py
+
+Exercício 4:
+
+https://github.com/sparkskrutch/cursodeprogramacao/blob/master/EXERCICIOS_ENTREGA/exercicio_tabuada.py
