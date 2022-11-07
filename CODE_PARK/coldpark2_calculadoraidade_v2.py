@@ -16,6 +16,7 @@ def calculadoraIdade():
                 print("-"*40)
                 print("Nome:", nome)
                 print("Sua idade:", idade)
+                print("-"*40)
                 
     except:
         print("Você não digitou os dados corretamente.")
