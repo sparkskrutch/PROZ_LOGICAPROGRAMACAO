@@ -1,7 +1,7 @@
 def mostrar_numero():
     teste = False
-    try:
-        while (teste == False):
+    while (teste == False):
+        try:
             num1 = int(input("Insira um número par menor que 100: "))
             if (num1 > 100):
                 print("Digite um número menor que 100.")
@@ -12,8 +12,8 @@ def mostrar_numero():
             else:
                 teste = True
                 print("O número digitado foi:", num1)
-    except:
-            print("Digite caracteres númerico.")
+        except:
+                print("Digite caracteres númerico.")
 
 
 mostrar_numero()
